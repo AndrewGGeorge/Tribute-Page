@@ -1,0 +1,45 @@
+body {
+  background-color: #eee;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+  text-align: center;
+}
+
+#intro {
+  text-align: center;
+  margin: 25px 50px 25px;
+}
+
+img {
+  height: 500px;
+  width: 500px;
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 425px;
+  margin-right: 425px;
+  margin-bottom: 5px;
+  border-radius: 50%; 
+}
+
+#quote {
+  text-align: center;
+  font-style: italic;
+  margin: 25px 5px 70px;  
+}
+
+#timeline {
+
+  text-align: center;
+  margin: 5px 5px 25px;
+}
+
+ul {
+  margin: 5px 5px 5px;
+}
+
+footer {
+  text-align: center;
+  background-color: #eee
+}
